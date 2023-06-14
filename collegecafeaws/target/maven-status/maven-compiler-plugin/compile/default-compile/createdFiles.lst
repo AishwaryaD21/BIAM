@@ -1,0 +1,9 @@
+com\cc\model\ItemFeedback.class
+com\cc\repository\IMenuRatingRepo.class
+com\cc\model\MenuRating.class
+com\cc\service\CollegeCafeServiceImpl.class
+com\cc\service\ICollegeCafeService.class
+com\cc\repository\IIteamFeedbackRepo.class
+com\cc\controller\CafeController.class
+com\cc\CollegecafeApplication.class
+com\cc\ServletInitializer.class
